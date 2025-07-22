@@ -69,7 +69,7 @@ telecom_churn_analysis.ipynb — Full analysis notebook
 telco dataset
 README.md — This file
 
-Future Projrct
+Future Project
 Build churn prediction model using logistic regression or random forest
 Add customer lifetime value (CLV) calculations
 Deploy as an interactive dashboard (Streamlit or Power BI)
